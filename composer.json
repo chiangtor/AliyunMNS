@@ -1,0 +1,24 @@
+{
+    "name": "jita032/aliyun-mns",
+    "description": "aliyun MNS official  PHP SDK for Composer ",
+    "keywords": ["aliyun MNS"],
+    "homepage": "https://github.com/FriendsOfPHP/Goutte",
+    "type": "library",
+    "require": {
+         "php": ">=5.5.0",
+        "guzzlehttp/guzzle": "^6.1",
+        "psr/http-message": "1.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jarod Chiang",
+            "email": "chiangtor@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "AliyunMNS\\": "AliyunMNS" }
+    },
+    "minimum-stability": "stable"
+
+}

@@ -2,7 +2,7 @@
     "name": "jita032/aliyun-mns",
     "description": "aliyun MNS official  PHP SDK for Composer ",
     "keywords": ["aliyun MNS"],
-    "homepage": "https://github.com/FriendsOfPHP/Goutte",
+    "homepage": "https://github.com/chiangtor/AliyunMNS",
     "type": "library",
     "require": {
          "php": ">=5.5.0",

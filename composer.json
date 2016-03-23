@@ -18,6 +18,5 @@
     ],
     "autoload": {
         "psr-4": { "AliyunMNS\\": "AliyunMNS" }
-    },
-    "minimum-stability" : "dev"
+    }
 }
